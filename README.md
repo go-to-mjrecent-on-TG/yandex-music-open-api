@@ -42,7 +42,7 @@ cd C:\Program Files (x86)\Google\Chrome\Application
 
 #### Использование JavaScript Yandex Music Client
 
-Как использовать клиент Яндекс.Музыки для JavaScript [описано здесь]('./lib/README.md').
+Как использовать клиент Яндекс.Музыки для JavaScript [описано здесь](./lib/README.md).
 
 #### Генерация клиентов с помощью [openapi-generator](https://openapi-generator.tech/docs/usage)
 
